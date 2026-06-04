@@ -1,0 +1,36 @@
+{
+  "name": "Superstore Dark",
+  "dataColors": [
+    "#4472C4",
+    "#ED7D31",
+    "#70AD47",
+    "#5BA8E0",
+    "#E74C3C",
+    "#9B59B6",
+    "#F1C40F",
+    "#1ABC9C"
+  ],
+  "background": "#0A0E1A",
+  "foreground": "#C8DAF5",
+  "tableAccent": "#4472C4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{
+          "color": {
+            "solid": {
+              "color": "#0F1628"
+            }
+          }
+        }],
+        "fontColor": [{
+          "color": {
+            "solid": {
+              "color": "#C8DAF5"
+            }
+          }
+        }]
+      }
+    }
+  }
+}
